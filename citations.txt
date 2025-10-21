@@ -1,0 +1,47 @@
+== Images ==
+
+a. tomato
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngimg.com%2Fimage%2F12511&psig=AOvVaw2ka1a6CpcmPt5Vvs_8Eq9D&ust=1700776632375000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCJDfkerM2IIDFQAAAAAdAAAAABAJ
+
+b. gif
+https://www.clipartbest.com/clipart-RTGEy9xbc
+
+
+
+== Sounds ==
+
+a. start timer audio
+https://pixabay.com/sound-effects/click-button-140881/
+
+b. end timer audio
+https://pixabay.com/sound-effects/analog-timer-74998/
+
+
+
+== Other Resources == 
+
+https://www.geeksforgeeks.org/get-current-date-and-time-using-python/
+
+https://www.geeksforgeeks.org/calendar-in-python/ 
+
+https://blogboard.io/blog/knowledge/python-sorted-lambda/ 
+
+https://www.cs.cmu.edu/~112-f22/notes/notes-functions-redux.html#lambdaFns 
+
+https://www.cs.cmu.edu/~112-f22/notes/notes-functions-redux.html#fnsInsideFns 
+
+https://realpython.com/any-python/ 
+
+https://www.afternerd.com/blog/python-enumerate/ 
+
+https://www.reddit.com/r/learnpython/comments/fr3grr/what_is_the_02_for_in_this_following_code/
+
+https://www.programiz.com/python-programming/methods/built-in/divmod 
+
+https://mkyong.com/python/python-difference-between-r-w-and-a-in-open/ 
+
+https://docs.python.org/3/library/json.html 
+
+https://www.geeksforgeeks.org/python-file-truncate-method/ 
+ 
+https://www.geeksforgeeks.org/python-seek-function/ 
